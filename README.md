@@ -1,5 +1,3 @@
-## Documentation
-http://bit.ly/ion2fullapp-with-functionalities-documentation
 
 # Workflow
 ##To run your app in the browser (great for initial development):
@@ -10,9 +8,6 @@ http://bit.ly/ion2fullapp-with-functionalities-documentation
 
 ##To run on Android:
 `ionic run android`
-
-##Review ionic CHANGELOG when updating ionic-angular version
-https://github.com/driftyco/ionic/blob/master/CHANGELOG.md
 
 # Configs
 ## Cordova (uses config.xml)
